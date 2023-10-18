@@ -38,12 +38,3 @@ Index::handleRequest
 Optional:
 If you wish to change the compression rate, you can change the value in line 96 of index.java
 
-## HappyFace.jpg
-<img src="https://i.imgur.com/zIJeBvK.jpg" width="96">
-
-## Before
-![Before](https://i.imgur.com/RyMGsVW.png)
-
-
-## After
-![After](https://i.imgur.com/OQnRCvs.png)
